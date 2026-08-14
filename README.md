@@ -53,7 +53,6 @@ I'm a Blockchain and Smart Contract Developer focused on building secure, scalab
 ---
 
   
-
 ## 🚀 Featured Projects
 
   
@@ -77,18 +76,13 @@ I'm a Blockchain and Smart Contract Developer focused on building secure, scalab
 
 Remote opportunities · Freelance & project-based work · Web3 & Blockchain collaborations
 
-  
-
 ---
-
-  
 
 ## 🌐 Connect With Me
 
-  
-[Portfolio](https://ali-nasirlou-resume.vercel.app/)
-[LinkedIn](https://www.linkedin.com/in/alinasirlou/)
-[Github](https://github.com/alinasirlou2020)
-[Twitter](https://x.com/_iwalimxzz__)
+- [Portfolio](https://ali-nasirlou-resume.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/alinasirlou/)
+- [Github](https://github.com/alinasirlou2020)
+- [Twitter](https://x.com/_iwalimxzz__)
 
 
