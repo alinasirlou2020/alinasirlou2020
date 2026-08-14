@@ -60,38 +60,17 @@ I'm a Blockchain and Smart Contract Developer focused on building secure, scalab
 
 <!-- Replace with your pinned repos -->
 
--  **[Project Name](https://github.com/yourusername/repo)** — What it does, in one sentence. Built with Solidity, Foundry & OpenZeppelin.
+-  **[Vault NFT Marketplace](https://vault-nft-marketplace.vercel.app/)** — decentralized marketplace supporting standard trading, Auctions, Offers, and an escrow-based Rental system
 
--  **[Project Name](https://github.com/yourusername/repo)** — What it does, in one sentence. Built with Solidity & Hardhat.
+-  **[Wakanda Staking](https://wakanda-staking.vercel.app/)** — DeFi staking: Features a gas-efficient O(1) index-tracking algorithm, a dual-token economy with Role-Based Access Control (RBAC).
 
--  **[Project Name](https://github.com/yourusername/repo)** — What it does, in one sentence. Built with Solidity & OpenZeppelin.
+-  **[Nexus DAO](https://nexus-dao-gamma.vercel.app/)** — Production-grade governance: Features quadratic voting weight and automated timelocked execution
 
--  **[Project Name](https://github.com/yourusername/repo)** — What it does, in one sentence. Built with Solidity, Foundry & Slither.
-
-  
-
----
-
-  
-
-## 📚 Certifications & Courses
-
-  
-
-- Solidity Smart Contract Development — *Cyfrin*
-
-- Web3 Wallet Security (Basics & Advanced) — *Cyfrin*
-
-- CS50X — *Harvard Online*
-
-  
-
-**Currently learning:** Smart Contract Security · Foundry Fundamentals *(Cyfrin)*
+-  **[Ivan Tower (RWA)](https://github.com/alinasirlou2020/Ivan_Tower)** — A modular real-world-asset tokenization framework with role-gated compliance checks.currently features 3 fully deployed and active floors, with each floor accommodating up to 101 distinct units.
 
   
 
 ---
-
   
 
 ## 🤝 Open to
