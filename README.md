@@ -22,7 +22,7 @@ I'm a Blockchain and Smart Contract Developer focused on building secure, scalab
 
   
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black) ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+![Solidity](https://img.shields.io/badge/%20-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Ethereum](https://img.shields.io/badge/%20-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) ![Foundry](https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=foundry&logoColor=white) ![Hardhat](https://img.shields.io/badge/%20-FFF100?style=for-the-badge&logo=hardhat&logoColor=black) ![OpenZeppelin](https://img.shields.io/badge/%20-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
 
   
 
