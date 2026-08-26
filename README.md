@@ -14,41 +14,12 @@ I'm a Blockchain and Smart Contract Developer focused on building secure, scalab
 
   
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack & Expertise
 
-  
-
-**Blockchain & Smart Contracts**
-
-  
-
-![Solidity](https://img.shields.io/badge/%20-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Ethereum](https://img.shields.io/badge/%20-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) ![Foundry](https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=foundry&logoColor=white) ![Hardhat](https://img.shields.io/badge/%20-FFF100?style=for-the-badge&logo=hardhat&logoColor=black) ![OpenZeppelin](https://img.shields.io/badge/%20-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
-
-  
-
-`ERC-20`  `ERC-721`  `ERC-1155`  `DeFi`  `NFTs`  `DAOs`
-
-  
-
-**Development**
-
-  
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-  
-
-**Security**
-
-  
-
-`Smart Contract Security`  `Vulnerability Analysis`  `Gas Optimization`  `Auditing`  `Secure Contract Design`
-
-  
-
-*Tools: Slither · Aderyn · Mythril · Solhint*
-
-  
+- **Smart Contract & Core:** `Solidity` `Ethereum` `Foundry` `Hardhat` `OpenZeppelin` `EVM`
+- **Standards & Architecture:** `ERC-20` `ERC-721` `ERC-1155` `ERC-4907` `DeFi Protocols` `DAOs`
+- **Security & Auditing:** `Static Analysis` `Vulnerability Assessment` `Gas Optimization` `Slither` `Aderyn` `Solhint`
+- **Web3 Frontend & Tools:** `TypeScript` `JavaScript` `React` `Next.js` `Viem` `Wagmi` `Git`
 
 ---
 
