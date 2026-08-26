@@ -40,6 +40,8 @@ I'm a Blockchain and Smart Contract Developer focused on building secure, scalab
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+
 ---
 
   
