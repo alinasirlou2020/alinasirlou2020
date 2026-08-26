@@ -16,9 +16,14 @@ I'm a Blockchain and Smart Contract Developer focused on building secure, scalab
 
 ## 🛠️ Skills & Technologies
 
-**Smart Contracts & Blockchain**
+**Smart Contracts & Core**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum,foundry,hardhat" />
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge&logo=foundry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-%23FFF100.svg?style=for-the-badge&logo=hardhat&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-%234E5EE4.svg?style=for-the-badge&logo=openzeppelin&logoColor=white" />
 </p>
 
 `ERC-20` &nbsp;·&nbsp; `ERC-721` &nbsp;·&nbsp; `ERC-1155` &nbsp;·&nbsp; `DeFi Protocols` &nbsp;·&nbsp; `DAOs`
@@ -27,10 +32,14 @@ I'm a Blockchain and Smart Contract Developer focused on building secure, scalab
 `Slither` &nbsp;·&nbsp; `Aderyn` &nbsp;·&nbsp; `Solhint` &nbsp;·&nbsp; `Gas Optimization` &nbsp;·&nbsp; `Vulnerability Analysis`
 
 **Frontend & Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,git" />
-</p>
 
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 ---
 
   
