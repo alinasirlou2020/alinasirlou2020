@@ -14,12 +14,22 @@ I'm a Blockchain and Smart Contract Developer focused on building secure, scalab
 
   
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Skills & Technologies
 
-- **Smart Contract & Core:** `Solidity` `Ethereum` `Foundry` `Hardhat` `OpenZeppelin` `EVM`
-- **Standards & Architecture:** `ERC-20` `ERC-721` `ERC-1155` `ERC-4907` `DeFi Protocols` `DAOs`
-- **Security & Auditing:** `Static Analysis` `Vulnerability Assessment` `Gas Optimization` `Slither` `Aderyn` `Solhint`
-- **Web3 Frontend & Tools:** `TypeScript` `JavaScript` `React` `Next.js` `Viem` `Wagmi` `Git`
+**Smart Contracts & Blockchain**
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum,foundry,hardhat" />
+</p>
+
+`ERC-20` &nbsp;·&nbsp; `ERC-721` &nbsp;·&nbsp; `ERC-1155` &nbsp;·&nbsp; `DeFi Protocols` &nbsp;·&nbsp; `DAOs`
+
+**Security & Tools**
+`Slither` &nbsp;·&nbsp; `Aderyn` &nbsp;·&nbsp; `Solhint` &nbsp;·&nbsp; `Gas Optimization` &nbsp;·&nbsp; `Vulnerability Analysis`
+
+**Frontend & Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,git" />
+</p>
 
 ---
 
